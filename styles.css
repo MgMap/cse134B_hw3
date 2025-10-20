@@ -1,0 +1,13 @@
+/* Semantic CSS Custom Element Styling */
+project-card {
+    display: block;
+    padding: 20px;
+    margin: 20px 0;
+    border: 2px solid black;
+}
+
+project-card h3 {
+    border-bottom: 1px solid black;
+}
+
+/* Total non-border properties: display, padding, margin = 3 properties */
